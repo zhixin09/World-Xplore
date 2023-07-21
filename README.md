@@ -1,7 +1,7 @@
 # World Xplore
-World Xplore is a responsive home page design for a travel agency. 
-It features a modern minimal design and uses a big video header to capture user's attention creating a stunning effect.
-When designing the web page I also follows closely with the UI and UX designs prinicples ensuring that the website looks aesthetically pleasing and easy to use.
+World Xplore is a responsive home page design catered for a dynamic travel agency. 
+It features a modern minimalist design and uses a big video header thats creates a "WoW" factor to grab user's attention.
+By adhering to UI and UX design principles, the website has a perfect balance between aesthetics and functionality, ensuring a great user experience.
 
 Made by [Zhixin](https://github.com/zhixin09)
 
